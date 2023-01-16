@@ -13,6 +13,6 @@ body:
     id: feature
     attributes:
       label: Description
-      description: Describe the feature
+      description: Describe the feature. If you want to suggest multiple features, create a separate issue for each of them.
     validations:
       required: true
