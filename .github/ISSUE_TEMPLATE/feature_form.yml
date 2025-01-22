@@ -1,6 +1,6 @@
 name: Feature Request
 description: Suggest an idea
-title: "[Feature]: "
+title: "[Feature]: <add a short description here>"
 labels: ["enhancement"]
 assignees:
   - avoonix
