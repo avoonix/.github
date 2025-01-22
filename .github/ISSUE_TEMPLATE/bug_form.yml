@@ -1,6 +1,6 @@
 name: Bug Report
 description: File a bug report
-title: "[Bug]: "
+title: "[Bug]: <add a short description here>"
 labels: ["bug"]
 assignees:
   - avoonix
